@@ -48,15 +48,8 @@ For education and illustration only. This tool does not provide investment, insu
 
 Plain HTML, CSS and JavaScript in a single file, with no frameworks or build step. Charts are drawn with inline SVG. The only external resource is Google Fonts, and the page still works if it fails to load. Hosted with GitHub Pages.
 
-## Roadmap
-
-- Monte Carlo simulation of market returns
-- Tax-aware retirement withdrawals
-- Social Security claiming-age comparison
-- Saving and loading client scenarios
-
 ## Author
 
-Created by **Michael Miller**, Economics (Financial Services) student at Widener University, with AI assistance from Claude (Anthropic). Calculations were reviewed and checked by hand.
+Created by **Michael Miller**, Economics (Financial Services) student at Widener University, with AI assistance from Claude (Anthropic).
 
 Contact: mkmiller@widener.edu | [LinkedIn](https://www.linkedin.com/in/michael-miller06)
